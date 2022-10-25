@@ -7,7 +7,7 @@ config BOARD
 	default "poroisk"
 
 config ZMK_KEYBOARD_NAME
-	default "poroisk"
+	default "Poroisk"
 
 if USB
 
